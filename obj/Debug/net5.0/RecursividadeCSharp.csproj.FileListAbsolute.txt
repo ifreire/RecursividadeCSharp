@@ -1,0 +1,16 @@
+/home/ifreire/Projects/DotNet_Core/RecursividadeCSharp/bin/Debug/net5.0/RecursividadeCSharp
+/home/ifreire/Projects/DotNet_Core/RecursividadeCSharp/bin/Debug/net5.0/RecursividadeCSharp.deps.json
+/home/ifreire/Projects/DotNet_Core/RecursividadeCSharp/bin/Debug/net5.0/RecursividadeCSharp.runtimeconfig.json
+/home/ifreire/Projects/DotNet_Core/RecursividadeCSharp/bin/Debug/net5.0/RecursividadeCSharp.runtimeconfig.dev.json
+/home/ifreire/Projects/DotNet_Core/RecursividadeCSharp/bin/Debug/net5.0/RecursividadeCSharp.dll
+/home/ifreire/Projects/DotNet_Core/RecursividadeCSharp/bin/Debug/net5.0/ref/RecursividadeCSharp.dll
+/home/ifreire/Projects/DotNet_Core/RecursividadeCSharp/bin/Debug/net5.0/RecursividadeCSharp.pdb
+/home/ifreire/Projects/DotNet_Core/RecursividadeCSharp/obj/Debug/net5.0/RecursividadeCSharp.csproj.AssemblyReference.cache
+/home/ifreire/Projects/DotNet_Core/RecursividadeCSharp/obj/Debug/net5.0/RecursividadeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ifreire/Projects/DotNet_Core/RecursividadeCSharp/obj/Debug/net5.0/RecursividadeCSharp.AssemblyInfoInputs.cache
+/home/ifreire/Projects/DotNet_Core/RecursividadeCSharp/obj/Debug/net5.0/RecursividadeCSharp.AssemblyInfo.cs
+/home/ifreire/Projects/DotNet_Core/RecursividadeCSharp/obj/Debug/net5.0/RecursividadeCSharp.csproj.CoreCompileInputs.cache
+/home/ifreire/Projects/DotNet_Core/RecursividadeCSharp/obj/Debug/net5.0/RecursividadeCSharp.dll
+/home/ifreire/Projects/DotNet_Core/RecursividadeCSharp/obj/Debug/net5.0/ref/RecursividadeCSharp.dll
+/home/ifreire/Projects/DotNet_Core/RecursividadeCSharp/obj/Debug/net5.0/RecursividadeCSharp.pdb
+/home/ifreire/Projects/DotNet_Core/RecursividadeCSharp/obj/Debug/net5.0/RecursividadeCSharp.genruntimeconfig.cache
